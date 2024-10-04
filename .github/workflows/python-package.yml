@@ -2,7 +2,7 @@ name: 디스코드 알림봇
 
 on:
   schedule: 
-    - cron:  "0 8 55 * *"
+    - cron:  "0 1 7 * *"
 
 jobs:
   message:
